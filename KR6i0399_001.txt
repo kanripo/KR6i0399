@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:04.194120
+#+DATE: 2015-08-30 20:18:05.595416
 #+TITLE: 佛說出家功德經
 #+PROPERTY: CBETA_ID T16n0707
 #+PROPERTY: ID KR6i0399
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 707
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0399_T_000-0813c>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0399_T_001-0813c> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.707¶
-
- 《佛說出家功德經》¶
+No. 707¶
+《佛說出家功德經》¶
 ¶
 失譯人今附東晉錄¶
 
